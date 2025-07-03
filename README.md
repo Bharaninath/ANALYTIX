@@ -52,18 +52,6 @@ python analytics.py
 
 
 
-
-
-## 🚀 About Me
-
-I'm a passionate web developer at Coimbatore Institute of Technology, India, with a love for coding and building things that matter. Fueled by an entrepreneurial spirit and a thirst for knowledge, I'm constantly learning and pushing boundaries. Let's connect and build something awesome together! 
-
-
-## 🔗 Links
-
-For more details,, ping me at
-
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareesh-r-v-674522255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
@@ -78,9 +66,9 @@ If you have any feedback, please reach out to us at hareeshrv2004@gmail.com
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjith-sivendra-k-0712a326b/)
 
-**Bharaninath:**
+**Hareesh R V:**
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-bharaninath-60713724a/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareesh-r-v-674522255/)
 
 **Kamaliha:**
 
